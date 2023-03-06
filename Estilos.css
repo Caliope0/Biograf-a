@@ -1,0 +1,15 @@
+
+.contenedor{
+     display: flex;
+     margin: 0 auto;
+     width: 80%;
+}
+.izquierda{
+    width: 80%;
+    background-color: cornsilk;
+    font-family: 'Times New Roman';
+    margin:10px
+}
+.derecha{
+    font-family: 'Times New Roman';
+}
